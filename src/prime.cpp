@@ -1,5 +1,4 @@
 #include <emscripten/emscripten.h>
-#include <vector>
 
 using namespace std;
 
